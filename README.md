@@ -1,8 +1,9 @@
+# Profile
 # Jacob Praymore Dolapo as the CEO at Cobnet Maher Collection
 # Professional Overview:
 Jacob Praymore Dolapo is an accomplished professional with a diverse skill set and over four years of experience across various roles in different organizations. 
-## i currently serves as a Customer Relationship Manager (CRM) at Damako Gas Ltd, where i oversees customer interactions and resolves complaints.
-# Concurrently, As the CEO at Cobnet Maher Collection, I'm demonstrating my leadership and entrepreneurial spirit.Professional 
+ i currently serves as a Customer Relationship Manager (CRM) at Damako Gas Ltd, where i oversees customer interactions and resolves complaints.
+ Concurrently, As the CEO at Cobnet Maher Collection, I'm demonstrating my leadership and entrepreneurial  
 # Experience:
 Customer Relationship Manager at Damako Gas Ltd: Responsible for managing customer interactions, resolving complaints, and ensuring customer satisfaction.
 # Project Planner and IT Student: 
