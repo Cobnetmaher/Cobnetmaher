@@ -24,4 +24,6 @@ Enthusiast in technology, particularly data analysis. Currently undertaking cour
 # Professional Affiliations:
 Member of the Africa Society of Health Professionals (ASHP)
 # Contact Information:
-Email:praymorejacob@gmail.comLinkedIn: I am committed to continuous improvement and professional growth, actively seeking new opportunities to enhance my skills and contribute effectively to my field. 
+Email:praymorejacob@gmail.com
+LinkedIn: https://www.linkedin.com/in/jacob-praymore-dolapo-573849250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+I am committed to continuous improvement and professional growth, actively seeking new opportunities to enhance my skills and contribute effectively to my field. 
